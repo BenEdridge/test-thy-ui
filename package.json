@@ -1,0 +1,20 @@
+{
+  "name": "test-thy-ui",
+  "version": "1.0.0",
+  "description": "Testing Web and Mobile UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blink-diff": "^1.0.13",
+    "cypress": "^3.4.1",
+    "jest-image-snapshot": "^2.11.0",
+    "looks-same": "^7.2.1",
+    "pixelmatch": "^5.1.0",
+    "puppeteer": "^1.20.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
